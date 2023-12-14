@@ -1,0 +1,10 @@
+{
+    "Author": "Tischel, ArchiTed, Kirbo",
+    "Name": "ActionTimelineEx",
+    "InternalName": "ActionTimelineEx",
+    "Description": "Configurable timeline display of all the actions you use.",
+    "Punchline": "Show your actions in real-time.",
+    "Tags": ["UI"],
+    "repo_url": "https://github.com/BrakusTapus/ActionTimelineEx",
+    "ApplicableVersion": "any"
+}
