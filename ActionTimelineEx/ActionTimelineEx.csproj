@@ -20,7 +20,7 @@
 
     <!-- Includes content -->
     <ItemGroup>
-        <Content Include="..\Images\Logo.png" Link="Images\Logo.png" CopyToOutputDirectory="PreserveNewest" Visible="false" />
+        <Content Include="..\Images\logo.png" Link="Images\logo.png" CopyToOutputDirectory="PreserveNewest" Visible="false" />
     </ItemGroup>
 
     <!-- References -->
