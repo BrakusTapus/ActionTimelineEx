@@ -1,21 +1,29 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
+    <!-- General Info -->
     <PropertyGroup>
         <TargetFramework>net7.0-windows</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Authors>Kirbo</Authors>
         <PlatformTarget>x64</PlatformTarget>
         <Platforms>AnyCPU</Platforms>
-        <Version>1.3.6</Version>
+        <Version>1.3.7</Version>
         <Nullable>enable</Nullable>
         <DalamudLibPath>$(AppData)\XIVLauncher\addon\Hooks\dev\</DalamudLibPath>
         <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
         <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     </PropertyGroup>
 
+    <!-- Removed from compiler -->
     <ItemGroup>
         <Compile Remove =".github\workflows\release-please.yml" />
     </ItemGroup>
-    
+
+    <!-- Includes content -->
+    <ItemGroup>
+        <Content Include="..\Images\Logo.png" Link="Images\Logo.png" CopyToOutputDirectory="PreserveNewest" Visible="false" />
+    </ItemGroup>
+
+    <!-- References -->
     <ItemGroup>
         <PackageReference Include="DalamudPackager" Version="2.1.12" />
         <ProjectReference Include="..\ECommons\ECommons\ECommons.csproj" />

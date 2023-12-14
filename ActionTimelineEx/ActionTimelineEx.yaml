@@ -5,7 +5,7 @@ description: |-
   Configurable timeline display of all the actions you use.
 punchline: Show your actions in real-time.
 repo_url: https://github.com/BrakusTapus/ActionTimelineEx
-icon_url: https://xivapi.com/i/000000/000073_hr1.png
+icon_url: https://github.com/BrakusTapus/AetherBox/blob/main/Images/logo.png
 dalamud_api_level: 9
 tags:
   - UI
