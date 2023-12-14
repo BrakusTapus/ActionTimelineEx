@@ -1,10 +1,10 @@
 ﻿
 name: ActionTimelineEx
-author: Tischel, ArchiTed
+author: Tischel, ArchiTed, Kirbo
 description: |-
   Configurable timeline display of all the actions you use.
 punchline: Show your actions in real-time.
-repo_url: https://github.com/ArchiDog1998/ActionTimelineEx
+repo_url: https://github.com/BrakusTapus/ActionTimelineEx
 icon_url: https://xivapi.com/i/000000/000073_hr1.png
 dalamud_api_level: 9
 tags:
@@ -12,7 +12,7 @@ tags:
 category_tags:
   - UI
 image_urls:
-  - https://raw.githubusercontent.com/ArchiDog1998/ActionTimelineEx/main/Images/example.gif
-download_link_install: https://github.com/ArchiDog1998/ActionTimelineEx/releases/latest/download/latest.zip
-download_link_update: https://github.com/ArchiDog1998/ActionTimelineEx/releases/latest/download/latest.zip
-download_link_testing: https://github.com/ArchiDog1998/ActionTimelineEx/releases/latest/download/latest.zip
+  - https://raw.githubusercontent.com/BrakusTapus/ActionTimelineEx/main/Images/example.gif
+download_link_install: https://github.com/BrakusTapus/ActionTimelineEx/releases/latest/download/latest.zip
+download_link_update: https://github.com/BrakusTapus/ActionTimelineEx/releases/latest/download/latest.zip
+download_link_testing: https://github.com/BrakusTapus/ActionTimelineEx/releases/latest/download/latest.zip
