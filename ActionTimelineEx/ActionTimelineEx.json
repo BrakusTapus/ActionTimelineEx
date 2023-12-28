@@ -1,12 +1,20 @@
 {
-    "Author": "Tischel, ArchiTed, Kirbo",
+    "Author": "Kirbo",
     "Name": "ActionTimelineEx",
-    "InternalName": "ActionTimelineEx",
     "Punchline": "Show your actions in real-time.",
     "Description": "Configurable timeline display of all the actions you use.",
-    "repo_url": "https://github.com/BrakusTapus/ActionTimelineEx",
-    "IconUrl": "https://github.com/BrakusTapus/ActionTimelineEx/blob/c0f9e209e1b0aac6543e786bba3809dd3441dd95/Images/logo.png",
+    "InternalName": "ActionTimelineEx",
+    "RepoUrl": "https://github.com/BrakusTapus/ActionTimelineEx",
+    "ApplicableVersion": "any",
+    "Tags": [
+        "Utility",
+        "plugin"
+    ],
+    "DalamudApiLevel": 9,
+    "AcceptsFeedback": false,
+    "IconUrl": "https://raw.githubusercontent.com/BrakusTapus/ActionTimelineEx/main/images/icon.png",
     "ImageUrls": [
-        "https://github.com/BrakusTapus/ActionTimelineEx/blob/c0f9e209e1b0aac6543e786bba3809dd3441dd95/Images/banner.png"
-    ]
+        "https://raw.githubusercontent.com/BrakusTapus/ActionTimelineEx/main/images/image1.png"
+    ],
+    "Changelog": "Changelog button to see whats new"
 }
