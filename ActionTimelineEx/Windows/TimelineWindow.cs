@@ -4,6 +4,7 @@ using ActionTimelineEx.Timeline;
 using Dalamud.Interface;
 using Dalamud.Interface.Utility;
 using ImGuiNET;
+using System;
 using System.Numerics;
 
 namespace ActionTimeline.Windows;

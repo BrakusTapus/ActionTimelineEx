@@ -5,6 +5,8 @@ using Dalamud.Interface.Internal;
 using ImGuiNET;
 using ImGuiScene;
 using RotationSolver.Basic.Data;
+using System;
+using System.Collections.Generic;
 using System.Drawing;
 using System.Numerics;
 

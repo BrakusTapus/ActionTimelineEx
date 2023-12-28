@@ -1,5 +1,7 @@
 ﻿namespace ActionTimelineEx.Timeline;
 
+using System;
+
 [Flags]
 public enum DamageType: byte
 {
